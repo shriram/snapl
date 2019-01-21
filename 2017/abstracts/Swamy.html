@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Summit oN Advances in Programming Languages" />
+	<meta name="keywords" content="SNAPL 2017" />
+	<meta name="author" content="Phitchaya Mangpo Phothilimthana" />
+	<link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" type="text/css" href="../origo.css" title="Origo" media="all" />
+	<title>SNAPL 2017</title>
+</head>
+
+<body class="light blue smaller freestyle01">
+<div id="layout">
+ 
+	<div class="row smaller">
+		<div class="col smaller">
+			<h1><a href="../index.html">SNAPL 2017</a></h1>
+		</div>
+		
+		<div class="col c7 alignright">
+			<p class="slogan">May 7-10, 2017 <span style="padding-left:30px">  Asilomar, California</p>
+		</div>
+	</div>
+  
+	<div class="row">
+		<div class="col aligncenter">
+			<img src="../images/monterey.png" alt="" width="760"/>
+		</div>
+	</div>
+ 
+	<div class="row">
+
+    		<div class="col c9">
+                      <h2>Everest: Towards a Verified, Drop-in Replacement of HTTPS</h2>
+                      <h4>Karthikeyan Bhargavan, Barry Bond, Antoine Delignat-Lavaud, Cédric Fournet, Chris Hawblitzel, Cătălin Hriţcu, Samin Ishtiaq, Markulf Kohlweiss, Rustan Leino, Jay Lorch, Kenji Maillard, Jianyang Pang, Bryan Parno, Jonathan Protzenko, Tahina Ramananandro, Ashay Rane, Aseem Rastogi, Nikhil Swamy, Laure Thompson, Peng Wang, Santiago Zanella-Béguelin, and Jean-Karim Zinzindohoué</h4>
+                      <p>The HTTPS ecosystem is the foundation on which Internet security is built. At the heart of this ecosystem is the Transport Layer Security (TLS) protocol, which in turn uses the X.509 public-key infrastructure and numerous cryptographic constructions and algorithms. Unfortunately, this ecosystem is extremely brittle, with headline-grabbing attacks and emergency patches many times a year.  We describe our ongoing efforts in Everest (https://project-everest.github.io) a project that aims to build and deploy a verified version of TLS and other components of HTTPS, replacing our infrastructure with proven, secure software. Aiming both at full verification and usability, we conduct high-level code-based, game-playing proofs of security on cryptographic implementations that yield efficient, deployable code, at the level of C and assembly. Concretely, we use F*, a dependently typed language for (meta-)programming and proving at a high level, while relying on low-level DSLs embedded within F* for programming low-level components when necessary for performance and, sometimes, side-channel resistance.  To compose the pieces, we compile all our code to source-like C and assembly, suitable for audit and deployment by independent security experts.<br>Our main results so far include (1) the design of Low*, a subset of F* designed for C-like imperative programming but with high-level verification suppport, and KreMLin, a compiler that extracts Low* programs to C; (2) an implementation of the TLS-1.3 record layer in Low*, together with a proof of its concrete cryptographic security;<br>(3) Vale, a new DSL for verified assembly language, and several optimized cryptographic algorithms proven functionally correct. In an early deployment, all our verified software is integrated and deployed within libcurl, a widely used library of networking protocols.</p>
+    
+    
+    		</div>
+	</div>
+ 
+	<div id="footer" class="row">
+		<div class="col c12 aligncenter">
+			<h3>&copy; 2017 SNAPL Conference</h3>
+			<p><a href="http://andreasviklund.com/templates/origo/">Template design</a> by <a href="http://andreasviklund.com/">Andreas Viklund</a><br>Header picture by Phitchaya Mangpo Phothilimthana</p>
+		</div>
+	</div>
+ </div>
+</body>
+</html>
+

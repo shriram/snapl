@@ -1,0 +1,71 @@
+/*
+Customization from origo by Andreas Viklund:
+http://andreasviklund.com/templates/origo/
+*/
+
+body {background:#f5f5f5 top center no-repeat; color:#555;}
+body a {color:#d06060;}
+
+/*
+blue:
+body a {color:#3288a8;}
+body h1, body h2, body h3 {color:#3288a8;}
+*/
+
+/*
+pink:
+body a {color:#f06ba0;}
+body h1, body h2, body h3 {color:#f06ba0;}
+*/
+
+/*
+orange:
+*/
+body a {color:#e58c24;}
+body h1, body h2, body h3 {color:#e58c24;}
+
+body a.boldgrey {color:#555;font-weight: bold;}
+
+body a:hover {color:#555;}
+body h1 {color:#888; font-size:3.6em; margin-bottom:0;}
+body h1 a:hover {color:#303030;}
+body h2 {color:#555;}
+body h1, body h2, body h3 {color:#d06060;}
+body ul.menu {border-top:1px solid #ddd;}
+body ul.menu li {border-bottom:1px solid #ddd;}
+body ul.menu li a:hover {color:#333;}
+body .separator {background: #f5f5f5 bottom center no-repeat; border-bottom:1px dotted #ccc;}
+body .slogan {color:#888;}
+body #footer {background:#f5f5f5 top center no-repeat;}
+body #footer .col {color:#555; border-top:1px dotted #ccc;}
+body #footer a {color:#555; border-bottom:1px dotted #ddd;}
+body #footer a:hover {color:#444; border-bottom:1px dotted #eee;}
+
+
+body {font:Tahoma,sans-serif;}
+body #layout {margin:20px auto 0; width:760px;}
+body h1, body h2, body h3, body ul.menu li a
+{font-family: 'Dosis', sans-serif; text-transform:uppercase;}
+body p.slogan {font-family: 'Dosis', sans-serif; text-transform:uppercase; margin-top:10px; font-size:1.4em;}
+body h1 {line-height:1.7em;}
+body h1 {font-size:2.6em;}
+body h2 {font-size:1.8em;}
+body h3 {font-size:1.3em;}
+body ul.menu {list-style:none; margin:0 0 15px 0; border:0; padding:0; position:relative;}
+body ul.menu li {list-style:none; text-align:left; font-size:1.2em; margin:0 0 1px; border:0; color:#888;}
+body ul.menu li a {font-size:1em; color:#555; padding:7px 5px 7px 8px; border-left:5px solid #ccc; background-color:#eaeaea; display:block; font-weight:400;}
+body ul.menu li a:hover, body ul.menu li a.current {color:#333; border-color:#3288a8; background-color:#dadada;text-decoration:none;}
+body ul.menu ul.subpages {margin:9px 0 -10px 15px;}
+body ul.menu ul.subpages a {font-size:0.8em; padding:4px 5px 4px 8px;}
+body #footer {font-size:0.9em; color:#999;}
+body #footer p {color:#999;}
+body #footer p a {color:#999;}
+body #footer p a:hover {color:#555;}
+
+table {
+    border-collapse: collapse;
+}
+
+/* .tocset { display: none; } */
+
+/* .navsettop, .navsetbottom { display: none; } */

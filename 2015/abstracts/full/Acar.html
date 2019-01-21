@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="The 1st Summit oN Advances in Programming Languages" />
+	<meta name="keywords" content="SNAPL 2015" />
+	<meta name="author" content="Phitchaya Mangpo Phothilimthana" />
+	<link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" type="text/css" href="../../origo.css" title="Origo" media="all" />
+	<title>SNAPL 2015</title>
+</head>
+
+<body class="light blue smaller freestyle01">
+<div id="layout">
+ 
+	<div class="row smaller">
+		<div class="col smaller">
+			<h1><a href="index.html">SNAPL 2015</a></h1>
+		</div>
+		
+		<div class="col c7 alignright">
+			<p class="slogan">May 3-6, 2015 <span style="padding-left:30px">  Asilomar, California</p>
+		</div>
+	</div>
+  
+	<div class="row">
+		<div class="col aligncenter">
+			<img src="../../images/monterey.png" alt="" width="760"/>
+		</div>
+	</div>
+ 
+	<div class="row">
+ 
+		<div class="col c9">
+                  <h2>Coupling Memory and Computation for Locality Management</h2>
+                  <h4>Umut Acar, Guy Blelloch, Matthew Fluet, Stefan Muller, Ram Raghunathan</h4>
+                  <p>We articulate the need for managing (data) locality automatically rather than leaving it to the
+programmer, especially in parallel programming systems. To this end, we propose techniques
+for coupling tightly the computation (including the thread scheduler) and the memory manager
+so that data and computation can be positioned closely in hardware. Such tight coupling of
+computation and memory management is in sharp contrast with the prevailing practice of considering
+each in isolation. For example, memory-management techniques usually abstract the
+computation as an unknown ﾓmutatorﾔ, which is treated as a ﾓblack boxﾔ.
+As an example of the approach, in this paper we consider a specific class of parallel computations,
+nested-parallel computations. Such computations dynamically create a nesting of parallel
+tasks. We propose a method for organizing memory as a tree of heaps reflecting the structure of
+the nesting. More specifically, our approach creates a heap for a task if it is separately scheduled
+on a processor. This allows us to couple garbage collection with the structure of the computation
+and the way in which it is dynamically scheduled on the processors. This coupling enables taking
+advantage of locality in the program by mapping it to the locality of the hardware. For example
+for improved locality a heap can be garbage collected immediately after its task finishes when
+the heap contents is likely in cache.</p>
+
+
+		</div>
+	</div>
+ 
+	<div id="footer" class="row">
+		<div class="col c12 aligncenter">
+			<h3>&copy; 2014 SNAPL Conference</h3>
+			<p><a href="http://andreasviklund.com/templates/origo/">Template design</a> by <a href="http://andreasviklund.com/">Andreas Viklund</a><br>Header picture by Phitchaya Mangpo Phothilimthana</p>
+		</div>
+	</div>
+ </div>
+</body>
+</html>

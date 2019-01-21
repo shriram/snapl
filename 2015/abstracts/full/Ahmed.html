@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="The 1st Summit oN Advances in Programming Languages" />
+	<meta name="keywords" content="SNAPL 2015" />
+	<meta name="author" content="Phitchaya Mangpo Phothilimthana" />
+	<link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" type="text/css" href="../../origo.css" title="Origo" media="all" />
+	<title>SNAPL 2015</title>
+</head>
+
+<body class="light blue smaller freestyle01">
+<div id="layout">
+ 
+	<div class="row smaller">
+		<div class="col smaller">
+			<h1><a href="index.html">SNAPL 2015</a></h1>
+		</div>
+		
+		<div class="col c7 alignright">
+			<p class="slogan">May 3-6, 2015 <span style="padding-left:30px">  Asilomar, California</p>
+		</div>
+	</div>
+  
+	<div class="row">
+		<div class="col aligncenter">
+			<img src="../../images/monterey.png" alt="" width="760"/>
+		</div>
+	</div>
+ 
+	<div class="row">
+ 
+		<div class="col c9">
+                  <h2>Verified Compilers for a Multi-Language World</h2>
+                  <h4>Amal Ahmed</h4>
+                  <p>Though there has been remarkable progress on formally verified
+compilers in recent years, most of these compilers 
+suffer from a 
+serious limitation: they are proved correct under the assumption that
+they will only be used to compile whole programs. This is an
+unrealistic assumption since most software systems today are comprised
+of components written in different languages---both typed and
+untyped---compiled by different compilers to a common target, as well
+as low-level libraries that may be handwritten in the target language.  
+
+We are pursuing a new methodology for building verified compilers for
+today's world of multi-language software.  The project has two central
+themes, both of which stem from a view of compiler correctness 
+as a language interoperability problem. First, to specify
+correctness of component compilation, we require that if a source
+component $s$ compiles to target component $t$, then $t$ linked with some
+arbitrary target code $t'$ should behave the same as $s$ 
+interoperating with $t'$. The latter demands a formal semantics of
+interoperability between the source and target languages.  Second, to
+enable safe interoperability between components compiled from
+languages as different as ML, Rust, Python, and C, we plan to design a
+gradually type-safe target language based on LLVM that supports safe
+interoperability between more precisely typed, less precisely typed,
+and type-unsafe components.  Our approach opens up a new avenue for
+exploring sensible language interoperability while also tackling
+compiler correctness.</p>
+
+
+		</div>
+	</div>
+ 
+	<div id="footer" class="row">
+		<div class="col c12 aligncenter">
+			<h3>&copy; 2014 SNAPL Conference</h3>
+			<p><a href="http://andreasviklund.com/templates/origo/">Template design</a> by <a href="http://andreasviklund.com/">Andreas Viklund</a><br>Header picture by Phitchaya Mangpo Phothilimthana</p>
+		</div>
+	</div>
+ </div>
+</body>
+</html>
