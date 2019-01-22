@@ -7,7 +7,8 @@ The dates are still being finalized. @emph{Tentative} dates:@linebreak{}
 @bold{Submission deadline}: Feb 10 (or a bit later), 2019 (Anywhere On Earth)@linebreak{}
 @bold{Decisions announced}: one month later@linebreak{}
 @bold{Final versions due}: one month later@linebreak{}
-@bold{Conference}: in the May 8-25 range (TBD), 2019
+@bold{Conference}: in the May 8-25 range (please
+@hyperlink["https://docs.google.com/forms/d/e/1FAIpQLSfWIFOpa6uRa1tAM_jH3FPG4tMH0zqRyV5DSFSJMl280L5CNw/viewform?usp=sf_link"]{fill out the survey}), 2019
 }
 )
 
@@ -35,12 +36,8 @@ A good SNAPL contribution is thus
 equal part insightful paper and engaging talk.
 There will also be generous breaks for attendees to mingle and talk.
 
-SNAPL 2019 will be held at the computer science department of
-@hyperlink["https://cs.brown.edu/"]{Brown University}
-in Providence, RI, USA.
-@hyperlink["http://cs.brown.edu/about/directions/"]{Providence}
-is on the US East Coast, within an hour of Boston and three hours of
-New York, accessible entirely by public transit.
+SNAPL 2019 will take place in Providence, RI, USA, on the
+US East Coast [@secref["location"]].
 
 @important-dates-block
 
@@ -148,11 +145,25 @@ the various Hot* conferences in systems; the practitioner-leaning
 Strange Loop; Seminars hosted at Dagstuhl; Working Groups run by IFIP;
 and *PLS regional programming language events.
 
+@section[#:tag "location"]{Location}
+
+The event will be held in the
+@hyperlink["https://cs.brown.edu/"]{computer science department}
+of
+@hyperlink["https://brown.edu/"]{Brown University}
+in Providence, RI, USA.
+
+@hyperlink["http://cs.brown.edu/about/directions/"]{Providence} is on
+the US East Coast, within an hour of Boston and three hours of New
+York. It is accessible entirely by reasonably-priced public transit
+(indeed, for most people, renting a car may be more burden than it's
+worth).
+
 @section{Attendance}
 
 Attendance at SNAPL is limited, imposed both by the venue and by the
 desire to have an intimate event. Space at SNAPL will be provided in
-the following order, until exhausted:
+the following order of priority, until exhausted:
 @itemlist[
 
 @item{members of the organizing committee,}
@@ -173,20 +184,11 @@ to submit a paper!
 Our goal is to keep costs modest, so that cost is not an inhibiting
 factor for attendance.
 
-The event will be held in classroom space in the
-@hyperlink["https://cs.brown.edu/"]{computer science department}
-of
-@hyperlink["https://brown.edu/"]{Brown University}
-in Providence, RI, USA. Brown is donating the space for free. There
-will be a registration fee to pay for incidental expenses (such
-as additional cleaning) and food, but these will be kept as reasonable
-as possible.
+The venue [@secref["location"]] is being provided for free by Brown.
 
-@hyperlink["http://cs.brown.edu/about/directions/"]{Providence} is on
-the US East Coast, within an hour of Boston and three hours of New
-York. It is accessible entirely by reasonably-priced public transit
-(indeed, for most people, renting a car may be more burden than it's
-worth).
+There will be a registration fee to pay for incidental expenses (such
+as additional cleaning) and food, but these will be kept as low
+as possible.
 
 Due to its location, it is easy to combine a trip to SNAPL with visits
 to several other locations. On the academic side, the US's Northeast
@@ -195,9 +197,9 @@ within at most a few hours' trip (most entirely by public transit). On
 the personal side, it's easy to get from Providence to Boston, Cape
 Cod, Newport, and several other tourist destinations. Therefore, it's
 possible to combine a trip to SNAPL with other visits, getting more
-value for your travel cost.
+value from your trip.
 
-We will obtain a block rate at a reasonable hotel. However, because
+We will obtain a block rate at a reasonable hotel. Furthermore, because
 the venue is not also hosted at the hotel, there will be no pressure
 to ``fill the block'': guests can stay where they like, whether at
 nicer hotels, hotels in their preferred chains, AirBnBs, or with a
@@ -214,4 +216,8 @@ by
 @hyperlink["http://andreasviklund.com/"]{Andreas Viklund},
 with modifications by
 Phitchaya Mangpo Phothilimthana.
+
+
+
+This site is hosted by GitHub Pages.
 
