@@ -217,7 +217,8 @@ by
 with modifications by
 Phitchaya Mangpo Phothilimthana.
 
-
+This Web site was prepared using the Racket
+@hyperlink["https://docs.racket-lang.org/scribble/"]{Scribble} tool.
 
 This site is hosted by GitHub Pages.
 
