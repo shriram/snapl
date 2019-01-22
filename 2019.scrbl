@@ -43,7 +43,7 @@ US East Coast [@secref["location"]].
 
 @table-of-contents{}
 
-@section{Call for Papers}
+@section[#:tag "cfp"]{Call for Papers}
 
 @subsection{Important Dates}
 
@@ -159,7 +159,7 @@ York. It is accessible entirely by reasonably-priced public transit
 (indeed, for most people, renting a car may be more burden than it's
 worth).
 
-@section{Attendance}
+@section[#:tag "attendance"]{Attendance}
 
 Attendance at SNAPL is limited, imposed both by the venue and by the
 desire to have an intimate event. Space at SNAPL will be provided in
@@ -179,7 +179,7 @@ This order thanks and rewards those who work to make the conference
 possible. Therefore, one way to make sure you get a place at SNAPL is
 to submit a paper!
 
-@section{Costs}
+@section[#:tag "costs"]{Costs}
 
 Our goal is to keep costs modest, so that cost is not an inhibiting
 factor for attendance.
@@ -208,7 +208,7 @@ commuting, but in principle one could also stay in the Boston area and
 commute down. We do require that participants attend @emph{all
 scheduled events} (including possibly a conference dinner).
 
-@section{Credits}
+@section[#:tag "credits"]{Credits}
 
 Page 
 @hyperlink["http://andreasviklund.com/templates/origo/"]{template design}
