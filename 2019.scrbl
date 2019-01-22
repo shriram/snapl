@@ -2,10 +2,12 @@
 
 @(define important-dates-block
 @para{
-@bold{Submission deadline}: February 20, 2019 (Anywhere On Earth)@linebreak{}
-@bold{Decisions announced}: March 20, 2019@linebreak{}
-@bold{Final versions due}: April 20, 2019@linebreak{}
-@bold{Conference}: around May 20, 2019
+The dates are still being finalized. @emph{Tentative} dates:@linebreak{}
+@linebreak{}
+@bold{Submission deadline}: Feb 10 (or a bit later), 2019 (Anywhere On Earth)@linebreak{}
+@bold{Decisions announced}: one month later@linebreak{}
+@bold{Final versions due}: one month later@linebreak{}
+@bold{Conference}: in the May 8-25 range (TBD), 2019
 }
 )
 
@@ -45,6 +47,8 @@ New York, accessible entirely by public transit.
 @table-of-contents{}
 
 @section{Call for Papers}
+
+@subsection{Important Dates}
 
 @important-dates-block
 
