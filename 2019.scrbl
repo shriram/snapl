@@ -7,8 +7,7 @@ The dates are still being finalized. @emph{Tentative} dates:@linebreak{}
 @bold{Submission deadline}: Feb 10 (or a bit later), 2019 (Anywhere On Earth)@linebreak{}
 @bold{Decisions announced}: one month later@linebreak{}
 @bold{Final versions due}: one month later@linebreak{}
-@bold{Conference}: in the May 8-25 range (please
-@hyperlink["https://docs.google.com/forms/d/e/1FAIpQLSfWIFOpa6uRa1tAM_jH3FPG4tMH0zqRyV5DSFSJMl280L5CNw/viewform?usp=sf_link"]{fill out the survey}), 2019
+@bold{Conference}: May 15-17, 2019
 }
 )
 
