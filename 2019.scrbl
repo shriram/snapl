@@ -4,9 +4,9 @@
 @para{
 The dates are still being finalized. @emph{Tentative} dates:@linebreak{}
 @linebreak{}
-@bold{Submission deadline}: Feb 10 (or a bit later), 2019 (Anywhere On Earth)@linebreak{}
-@bold{Decisions announced}: one month later@linebreak{}
-@bold{Final versions due}: one month later@linebreak{}
+@bold{Submission deadline}: Feb 14, 2019 (Anywhere On Earth)@linebreak{}
+@bold{Decisions announced}: Mar 15, 2019@linebreak{}
+@bold{Final versions due}: Apr 15, 2019@linebreak{}
 @bold{Conference}: May 15-17, 2019
 }
 )
