@@ -5,7 +5,9 @@
 The dates are still being finalized. @emph{Tentative} dates:@linebreak{}
 @linebreak{}
 @bold{Submission deadline}:
-  @hyperlink["https://snapl19.hotcrp.com/"]{Feb 14, 2019} (Anywhere On Earth)@linebreak{}
+  @hyperlink["https://snapl19.hotcrp.com/"]{Feb 14, 2019} (Anywhere On Earth)
+  [@bold{FIRM}]
+  @linebreak{}
 @bold{Decisions announced}: Mar 15, 2019@linebreak{}
 @bold{Final versions due}: Apr 15, 2019@linebreak{}
 @bold{Conference}: May 15-17, 2019
