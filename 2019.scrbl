@@ -4,7 +4,8 @@
 @para{
 The dates are still being finalized. @emph{Tentative} dates:@linebreak{}
 @linebreak{}
-@bold{Submission deadline}: Feb 14, 2019 (Anywhere On Earth)@linebreak{}
+@bold{Submission deadline}:
+  @hyperlink["https://snapl19.hotcrp.com/"]{Feb 14, 2019} (Anywhere On Earth)@linebreak{}
 @bold{Decisions announced}: Mar 15, 2019@linebreak{}
 @bold{Final versions due}: Apr 15, 2019@linebreak{}
 @bold{Conference}: May 15-17, 2019
@@ -125,6 +126,11 @@ additional results, supplementary material, etc.  At the same time,
 reviewer time is valuable, and we believe a good SNAPL contribution
 can make its central point snappily; if it can't do so in 5--8 pages,
 it's unlikely 16 pages will help.)
+
+@subsection[#:tag "submission-site"]{Submission Site}
+
+Please submit through
+@hyperlink["https://snapl19.hotcrp.com/"]{HotCRP}.
 
 @subsection[#:tag "previous-proceedings"]{Previous Proceedings}
 
