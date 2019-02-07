@@ -152,6 +152,57 @@ the various Hot* conferences in systems; the practitioner-leaning
 Strange Loop; Seminars hosted at Dagstuhl; Working Groups run by IFIP;
 and *PLS regional programming language events.
 
+@section[#:tag "organizers"]{Committees}
+
+@subsection{Organizers/Program Chairs}
+
+@itemlist[
+
+@item{Ras Bodik, University of Washington}
+@item{Shriram Krishnamurthi, Brown University}
+
+]
+
+@subsection{Publication Chair/Editor}
+
+@itemlist[
+
+@item{Benjamin S. Lerner, Northeastern University}
+
+]
+
+@subsection{Program Committee}
+
+@itemlist[
+
+@item{Jonathan Aldrich, Carnegie Mellon University}
+@item{Emery Berger, University of Massachusetts Amherst / Microsoft Research}
+@item{Ras Bodik, University of Washington}
+@item{Giuseppe Castagna, CNRS - France}
+@item{William R. Cook, University of Texas at Austin}
+@item{Derek Dreyer, MPI-SWS}
+@item{Martin Erwig, Oregon State University}
+@item{Jeremy Gibbons, University of Oxford}
+@item{Michael Hicks, University of Maryland}
+@item{Tony Hosking, Australian National University}
+@item{Suresh Jagannathan, Purdue University}
+@item{Shriram Krishnamurthi, Brown University}
+@item{Erik Meijer, Facebook}
+@item{Andrew Myers, Cornell University}
+@item{Sukyoung Ryu, KAIST}
+@item{David Walker, Princeton University}
+@item{Eran Yahav, Technion}
+
+]
+
+@subsection{Local Organization}
+
+@itemlist[
+
+@item{Shriram Krishnamurthi, Brown University}
+
+]
+
 @section[#:tag "location"]{Location}
 
 The event will be held in the
