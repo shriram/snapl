@@ -129,6 +129,12 @@ reviewer time is valuable, and we believe a good SNAPL contribution
 can make its central point snappily; if it can't do so in 5--8 pages,
 it's unlikely 16 pages will help.)
 
+@emph{Note: Due to the current LIPIcs style, the author/affiliation
+block can take a significant amount of space. While we need to conform
+to the requirements of LIPIcs for the final submission, you are
+welcome to creatively reformat this block for your submission to
+minimize space usage.}
+
 @subsection[#:tag "submission-site"]{Submission Site}
 
 Please submit through
