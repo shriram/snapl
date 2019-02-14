@@ -196,6 +196,7 @@ and *PLS regional programming language events.
 @item{Erik Meijer, Facebook}
 @item{Andrew Myers, Cornell University}
 @item{Sukyoung Ryu, KAIST}
+@item{Martin Vechev, ETH Zurich}
 @item{David Walker, Princeton University}
 @item{Eran Yahav, Technion}
 
