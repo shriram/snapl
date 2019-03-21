@@ -10,7 +10,7 @@ The dates are still being finalized. @emph{Tentative} dates:@linebreak{}
   @linebreak{}
 @bold{Decisions announced}: Mar 15, 2019@linebreak{}
 @bold{Final versions due}: Apr 15, 2019@linebreak{}
-@bold{Conference}: May 15-17, 2019
+@bold{Conference}: May 16-17, 2019
 }
 )
 
