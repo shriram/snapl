@@ -1,0 +1,5 @@
+.PubsList tr, td {vertical-align: top}
+
+.PubsList tr:nth-child(even) {background-color: #dddddd;}
+
+.PubsList tr:hover {background-color: #aaaaaa;}

@@ -1,5 +1,11 @@
 #lang scribble/base
 
+@(require scribble/core scribble/html-properties)
+
+@(define pubs-list-style
+  (make-style "PubsList"
+    (list (make-css-addition "pubslist.css"))))
+
 @(define important-dates-block
 @para{
 The dates are still being finalized. @emph{Tentative} dates:@linebreak{}
@@ -270,9 +276,198 @@ to ``fill the block'': guests can stay where they like, whether at
 nicer hotels, hotels in their preferred chains, AirBnBs, or with a
 friend. We do recommend staying in the Providence area, to minimize
 commuting, but in principle one could also stay in the Boston area and
-commute down. We do require that participants attend @emph{all
-scheduled events} (including possibly a conference dinner).
+commute down. We do ask that participants attend @emph{all
+scheduled events}.
 
+@section[#:tag "program"]{Program}
+
+@bold{Thursday, May 16}
+
+@tabular[#:style pubs-list-style
+	 #:sep @hspace[1]
+
+(list
+
+  (list
+    "0900-0930"
+    (para
+    @emph{A New Golden Age in Hardware Description Languages:@(linebreak)
+      Applying Programming Language Techniques to@(linebreak)
+      Improve Design Productivity}
+    @(linebreak)
+    "Lenny Truong (Stanford University)"
+    @(linebreak)
+    "Pat Hanrahan (Stanford University)"))
+
+  (list
+    "0930-1000"
+    (para
+    @emph{From Macros to DSLs: The Evolution of Racket}
+    @(linebreak)
+    "Ryan Culpepper (PLT)"
+    @(linebreak)
+    "Matthias Felleisen (PLT)"
+    @(linebreak)
+    "Matthew Flatt (PLT)"
+    @(linebreak)
+    "Shriram Krishnamurthi (PLT)"))
+
+  (list
+    "1000-1030"
+    (para
+    @emph{Toward Domain-Specific Solvers for Distributed Consistency}
+    @(linebreak)
+    "Lindsey Kuper (UC Santa Cruz)"
+    @(linebreak)
+    "Peter Alvaro (UC Santa Cruz)"))
+
+  (list
+    "1030-1100"
+    "Break")
+
+  (list
+    "1100-1130"
+    (para
+    @emph{From Theory to Systems:@(linebreak)
+    A Grounded Approach to Programming Language Education}
+    @(linebreak)
+    "Will Crichton (Stanford University)"))
+
+  (list
+    "1130-1200"
+    (para
+    @emph{The Next 700 Semantics: A Research Challenge}
+    @(linebreak)
+    "Shriram Krishnamurthi (Brown University)"
+    @(linebreak)
+    "Benjamin S. Lerner (Brown University)"
+    @(linebreak)
+    "Liam Elberty (Brown University)"))
+    
+  (list
+    "1200-1330"
+    "Lunch")
+
+  (list
+    "1330-1400"
+    (para
+    @emph{Blame Tracking and Type Error Debugging}
+    @(linebreak)
+    "Sheng Chen (University of Louisiana at Lafayette)"
+    @(linebreak)
+    "John Peter Campora III (University of Louisiana at Lafayette)"))
+
+  (list
+    "1400-1430"
+    (para
+    @emph{From Software 1.0 to Software 2.0}
+    @(linebreak)
+    "Michael Carbin (MIT CSAIL)"))
+
+  (list
+    "1430-1500"
+    "Break")
+
+  (list
+    "1500-1530"
+    (para
+    @emph{The Dynamic Practice and Static Theory of Gradual Typing}
+    @(linebreak)
+    "Michael Greenberg (Pomona College)"))
+
+  (list
+    "1530-1600"
+    (para
+    @emph{Version Control Is for Your Data Too}
+    @(linebreak)
+    "Gowtham Kaki (Purdue University)"
+    @(linebreak)
+    "KC Sivaramakrishnan (IIT Madras)"
+    @(linebreak)
+    "Suresh Jagannathan (Purdue University)"))
+
+  (list
+    "1600-1610"
+    "Break")
+
+  (list
+    "1610-1635"
+    "Guest Talk: Paul Gazzillo (University of Central Florida)")
+
+  (list
+    "1635-1700"
+    "Guest Talk: Santosh Nagarakatte (Rutgers University)")
+
+  (list
+    "evening"
+    "Banquet (optional)")
+  
+)]
+
+@bold{Friday, May 17}
+
+@tabular[#:style pubs-list-style
+	 #:sep @hspace[1]
+
+(list
+
+  (list
+    "0900-0930"
+    (para
+    @emph{Formal Verification vs. Quantum Uncertainty}
+    @(linebreak)
+    "Robert Rand (University of Maryland)"
+    @(linebreak)
+    "Kesha Hietala (University of Maryland)"
+    @(linebreak)
+    "Michael Hicks (University of Maryland)"))
+
+  (list
+    "0930-1000"
+    (para
+    @emph{A Tour of Gallifrey, a Language for Geodistributed Programming}
+    @(linebreak)
+    "Matthew Milano (Cornell University)"
+    @(linebreak)
+    "Rolph Recto (Cornell University)"
+    @(linebreak)
+    "Andrew C. Myers (Cornell University)"))
+
+  (list
+    "1000-1030"
+    (para
+    @emph{Secure Languages Considered Insecure}
+    @(linebreak)
+    "Cristina Cifuentes (Oracle Labs, Australia)"
+    @(linebreak)
+    "Gavin Bierman (Oracle Labs, UK)"))
+
+  (list
+    "1030-1100"
+    "Break")
+
+  (list
+    "1100-1130"
+    "PC Member: Tony Hosking")
+
+  (list
+    "1130-1200"
+    "PC Member: Emery Berger")
+
+  (list
+    "1200-1300"
+    "Lunch")
+
+  (list
+    "1300-1330"
+    "PC Member: Jonathan Aldrich")
+
+  (list
+    "1330-1400"
+    "PC Member: Ras Bodík")
+
+)]
+    
 @section[#:tag "credits"]{Credits}
 
 Page 
