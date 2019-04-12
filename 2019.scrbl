@@ -170,7 +170,7 @@ and *PLS regional programming language events.
 
 @itemlist[
 
-@item{Ras Bodik, University of Washington}
+@item{Ras Bodík, University of Washington}
 @item{Shriram Krishnamurthi, Brown University}
 
 ]
@@ -189,7 +189,7 @@ and *PLS regional programming language events.
 
 @item{Jonathan Aldrich, Carnegie Mellon University}
 @item{Emery Berger, University of Massachusetts Amherst / Microsoft Research}
-@item{Ras Bodik, University of Washington}
+@item{Ras Bodík, University of Washington}
 @item{Giuseppe Castagna, CNRS - France}
 @item{William R. Cook, University of Texas at Austin}
 @item{Derek Dreyer, MPI-SWS}
@@ -328,21 +328,24 @@ scheduled events}.
   (list
     "1100-1130"
     (para
-    @emph{From Theory to Systems:@(linebreak)
-    A Grounded Approach to Programming Language Education}
+    @emph{A Tour of Gallifrey, a Language for Geodistributed Programming}
     @(linebreak)
-    "Will Crichton (Stanford University)"))
+    "Matthew Milano (Cornell University)"
+    @(linebreak)
+    "Rolph Recto (Cornell University)"
+    @(linebreak)
+    "Andrew C. Myers (Cornell University)"))
 
   (list
     "1130-1200"
     (para
-    @emph{The Next 700 Semantics: A Research Challenge}
+    @emph{Version Control Is for Your Data Too}
     @(linebreak)
-    "Shriram Krishnamurthi (Brown University)"
+    "Gowtham Kaki (Purdue University)"
     @(linebreak)
-    "Benjamin S. Lerner (Brown University)"
+    "KC Sivaramakrishnan (IIT Madras)"
     @(linebreak)
-    "Liam Elberty (Brown University)"))
+    "Suresh Jagannathan (Purdue University)"))
     
   (list
     "1200-1330"
@@ -378,13 +381,13 @@ scheduled events}.
   (list
     "1530-1600"
     (para
-    @emph{Version Control Is for Your Data Too}
+    @emph{The Next 700 Semantics: A Research Challenge}
     @(linebreak)
-    "Gowtham Kaki (Purdue University)"
+    "Shriram Krishnamurthi (Brown University)"
     @(linebreak)
-    "KC Sivaramakrishnan (IIT Madras)"
+    "Benjamin S. Lerner (Brown University)"
     @(linebreak)
-    "Suresh Jagannathan (Purdue University)"))
+    "Liam Elberty (Brown University)"))
 
   (list
     "1600-1610"
@@ -425,18 +428,15 @@ scheduled events}.
   (list
     "0930-1000"
     (para
-    @emph{A Tour of Gallifrey, a Language for Geodistributed Programming}
+    @emph{From Theory to Systems:@(linebreak)
+    A Grounded Approach to Programming Language Education}
     @(linebreak)
-    "Matthew Milano (Cornell University)"
-    @(linebreak)
-    "Rolph Recto (Cornell University)"
-    @(linebreak)
-    "Andrew C. Myers (Cornell University)"))
+    "Will Crichton (Stanford University)"))
 
   (list
     "1000-1030"
     (para
-    @emph{Secure Languages Considered Insecure}
+    @emph{What is a Secure Programming Language?}
     @(linebreak)
     "Cristina Cifuentes (Oracle Labs, Australia)"
     @(linebreak)
