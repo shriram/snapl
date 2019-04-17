@@ -334,6 +334,8 @@ scheduled events}.
     @(linebreak)
     "Rolph Recto (Cornell University)"
     @(linebreak)
+    "Tom Magrino (Cornell University)"
+    @(linebreak)
     "Andrew C. Myers (Cornell University)"))
 
   (list
