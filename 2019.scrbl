@@ -365,9 +365,13 @@ scheduled events}.
   (list
     "1400-1430"
     (para
-    @emph{From Software 1.0 to Software 2.0}
+    @emph{Formal Verification vs. Quantum Uncertainty}
     @(linebreak)
-    "Michael Carbin (MIT CSAIL)"))
+    "Robert Rand (University of Maryland)"
+    @(linebreak)
+    "Kesha Hietala (University of Maryland)"
+    @(linebreak)
+    "Michael Hicks (University of Maryland)"))
 
   (list
     "1430-1500"
@@ -419,13 +423,9 @@ scheduled events}.
   (list
     "0900-0930"
     (para
-    @emph{Formal Verification vs. Quantum Uncertainty}
+    @emph{From Software 1.0 to Software 2.0}
     @(linebreak)
-    "Robert Rand (University of Maryland)"
-    @(linebreak)
-    "Kesha Hietala (University of Maryland)"
-    @(linebreak)
-    "Michael Hicks (University of Maryland)"))
+    "Michael Carbin (MIT CSAIL)"))
 
   (list
     "0930-1000"
