@@ -8,10 +8,10 @@
 
 @(define important-dates-block
 @para{
-The dates are still being finalized. @emph{Tentative} dates:@linebreak{}
+Important dates:@linebreak{}
 @linebreak{}
 @bold{Submission deadline}:
-  @hyperlink["https://snapl19.hotcrp.com/"]{Feb 14, 2019} (Anywhere On Earth)
+  Feb 14, 2019 (Anywhere On Earth)
   [@bold{FIRM}]
   @linebreak{}
 @bold{Decisions announced}: Mar 15, 2019@linebreak{}
@@ -44,7 +44,8 @@ A good SNAPL contribution is thus
 equal part insightful paper and engaging talk.
 There will also be generous breaks for attendees to mingle and talk.
 
-SNAPL 2019 will take place in Providence, RI, USA, on the
+SNAPL 2019 took place in the Brown University Computer Science Department,
+located in Providence, RI, USA, on the
 US East Coast [@secref["location"]].
 
 @important-dates-block
