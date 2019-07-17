@@ -32,6 +32,8 @@ twice before:
 @hyperlink["../2015/"]{2015}
 and
 @hyperlink["../2017/"]{2017}.
+The 2019 proceedings
+@hyperlink["http://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16110"]{are online}.
 
 SNAPL
 focuses on experience-based insight, innovation, and visionary ideas
@@ -51,6 +53,11 @@ US East Coast [@secref["location"]].
 @important-dates-block
 
 @table-of-contents{}
+
+@section[#:tag "procs"]{Proceedings}
+
+The 2019 proceedings
+@hyperlink["http://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16110"]{are online}.
 
 @section[#:tag "cfp"]{Call for Papers}
 
