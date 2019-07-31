@@ -57,7 +57,13 @@ US East Coast [@secref["location"]].
 @section[#:tag "procs"]{Proceedings}
 
 The 2019 proceedings
-@hyperlink["http://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16110"]{are online}.
+@hyperlink["http://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16110"]{are online},
+hosted by Dagstuhl LIPIcs.
+
+You can also find the older proceedings on-line:
+@hyperlink["http://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16032"]{2017}
+and
+@hyperlink["http://drops.dagstuhl.de/portals/extern/index.php?semnr=15003"]{2015}.
 
 @section[#:tag "cfp"]{Call for Papers}
 
